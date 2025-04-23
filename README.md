@@ -24,6 +24,19 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+Developed By: Dhanvant Kumar V                                                                                                            
+REG NO: 212224040070                                                                                                                 
+![alt text](</image/exp4.ipynb - Colab_page-0001.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0002.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0003.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0004.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0005.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0006.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0007.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0008.jpg>) 
+![alt text](</image/exp4.ipynb - Colab_page-0009.jpg>) 
+![alt text](</image/Screenshot 2025-04-23 221349.png>)
+![alt text](</image/Screenshot 2025-04-23 221435.png>)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature Scaling and Feature Selection has been experimented on the given dataset.
